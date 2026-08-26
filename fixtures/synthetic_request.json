@@ -1,0 +1,29 @@
+{
+  "schema_version": "cyrisk.audit-export/v1",
+  "package_id": "pkg_synthetic",
+  "as_of": "2026-08-26T00:00:00Z",
+  "evidence": [
+    {
+      "evidence_id": "evidence_synthetic",
+      "source_class": "synthetic",
+      "integrity_hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "description": "Fictional payload-free evidence reference for package regression only.",
+      "expires_on": "2026-09-30"
+    }
+  ],
+  "artifacts": [
+    {
+      "artifact_id": "artifact_synthetic",
+      "artifact_kind": "synthetic_manifest",
+      "integrity_hash": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "description": "Fictional generated-artifact hash for deterministic package testing."
+    }
+  ],
+  "redaction_policy": {
+    "policy_id": "policy_synthetic",
+    "version": "1.0.0",
+    "declared_redacted_fields": ["credential", "payload_locator", "raw_evidence"],
+    "rationale": "Fictional policy declaration; redaction execution remains outside this package."
+  },
+  "limitation": "Synthetic metadata package only; it is not evidence truth, an audit opinion, or a compliance conclusion."
+}

@@ -1,0 +1,14 @@
+{
+  "build": {
+    "archive_sha256": "84517ca728c4d78d9130947061019d745c6d744e6cb91d67c77fd2378c29f670",
+    "manifest_hash": "3c0c73bcd5ebfa014f6c49bddfef3100642cb2cc80beb4f0b3b44ce6aaa4d818",
+    "member_count": 2,
+    "package_id": "pkg_synthetic"
+  },
+  "verification": {
+    "archive_sha256": "84517ca728c4d78d9130947061019d745c6d744e6cb91d67c77fd2378c29f670",
+    "manifest_hash": "3c0c73bcd5ebfa014f6c49bddfef3100642cb2cc80beb4f0b3b44ce6aaa4d818",
+    "package_id": "pkg_synthetic",
+    "verified": true
+  }
+}
