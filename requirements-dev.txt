@@ -1,6 +1,6 @@
 pydantic>=2.7,<3
 pytest>=8.3,<9
 pytest-cov>=6,<7
-ruff>=0.9,<1
+ruff>=0.16.4,<1
 mypy>=1.13,<2
 hatchling>=1.25,<2
